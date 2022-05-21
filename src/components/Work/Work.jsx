@@ -2,7 +2,7 @@ import React from 'react';
 import './work.css';
 
 const Work = () => {
-  return <div>Work</div>;
+  return <section id="work">Work</section>;
 };
 
 export default Work;

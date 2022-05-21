@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;500;600&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +12,7 @@
 
 :root {
   --background-colour: #1f1f38;
-  --background-colour-variant: #2c2c6c;
+  --background-colour-variant: rgba(44, 44, 108, 0.75);
   --primary-colour: #4db5ff;
   --primary-colour-variant: rgba(77, 181, 255, 0.4);
   --white-colour: #fff;
@@ -32,9 +34,10 @@ html {
 }
 
 body {
+  font-family: 'Mukta', sans-serif;
   color: var(--white-colour);
   line-height: 1.7;
-  background-image: url(../src/assets/Images/background-image.jpg);
+  background: url(../src/assets/Images/background-image.jpg) no-repeat center center fixed;
   background-size: cover;
   backdrop-filter: initial;
 }
@@ -58,6 +61,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2,
