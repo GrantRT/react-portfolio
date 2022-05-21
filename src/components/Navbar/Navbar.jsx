@@ -12,6 +12,9 @@ const Navbar = () => {
       <a href="#about" onClick={() => setActiveNavItem('#about')} className={activeNavItem === '#about' ? 'active' : ''}>
         About
       </a>
+      <a href="#skills" onClick={() => setActiveNavItem('#skills')} className={activeNavItem === '#skills' ? 'active' : ''}>
+        Skills
+      </a>
       <a href="#work" onClick={() => setActiveNavItem('#work')} className={activeNavItem === '#work' ? 'active' : ''}>
         Work
       </a>

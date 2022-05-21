@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   background: url(./assets/Images/background-image.jpg) center;
-  filter: grayscale(80%);
   background-size: cover;
   width: 100%;
   height: 100%;
