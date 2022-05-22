@@ -10,6 +10,10 @@ A portfolio to showcase my work using React.
 - CSS
 - React-Icons
 
+## Deployed Link
+
+https://grantrt.github.io/react-portfolio/
+
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/93350224/169708382-211ca203-80a6-4c02-ab13-44ef679d5c38.png)
