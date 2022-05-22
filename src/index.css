@@ -11,6 +11,7 @@
 }
 
 :root {
+  /*  */
   --background-colour: #1f1f38;
   --background-colour-variant: rgba(44, 44, 108, 0.75);
   --primary-colour: #4db5ff;
@@ -22,7 +23,7 @@
   --container-width-md: 86%;
   --container-width-sm: 90%;
 
-  --transition: all 400ms ease;
+  --transition: all 450ms ease;
 }
 
 html {

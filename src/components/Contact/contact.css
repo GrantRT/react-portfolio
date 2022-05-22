@@ -1,0 +1,32 @@
+.contact {
+  background: rgba(0, 0, 0, 0.3);
+  width: max-content;
+  display: block;
+  padding: 0.5rem 1.7rem;
+  z-index: 2;
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%);
+  bottom: 5rem;
+  display: flex;
+  justify-content: center;
+  border-radius: 1rem;
+  backdrop-filter: blur(15px);
+}
+
+.contact a {
+  background: transparent;
+  margin: 0.2rem;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  display: flex;
+  font-size: 3rem;
+}
+
+.contact a:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.contact a.active {
+  color: white;
+}
