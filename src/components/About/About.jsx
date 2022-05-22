@@ -30,7 +30,7 @@ const About = () => {
           <p>
             Hello, my name is Grant Tolhurst and I recently earned a certificate in full stack web development from The University of Birmingham. My last role was being a Depot Manager for a vehicle
             repair centre. Having been in the motor industry for 14 years I decided to make a change and pursue a career I was passionate about. In November 2021 I enrolled in The University of
-            Birmingham Coding Boot Camp, studying front-end and back-end technologies through a dynamic full stack curriculum. I am extremly excited and eager to begin my journey as a web developer.
+            Birmingham Coding Boot Camp, studying front-end and back-end technologies through a dynamic full stack curriculum. I am extremely excited and eager to begin my journey as a web developer.
           </p>
         </div>
       </div>
