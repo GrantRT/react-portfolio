@@ -33,6 +33,8 @@
   max-width: 370px;
   height: 200px;
   object-fit: cover;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .work__project h3 {

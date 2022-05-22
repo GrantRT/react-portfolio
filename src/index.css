@@ -11,13 +11,12 @@
 }
 
 :root {
-  /*  */
-  --background-colour: #1f1f38;
-  --background-colour-variant: rgba(44, 44, 108, 0.75);
+  --background-colour: #05082b;
+  --background-colour-variant: rgba(10, 52, 182, 0.75);
   --primary-colour: #4db5ff;
-  --primary-colour-variant: rgba(77, 181, 255, 0.4);
+  --primary-colour-variant: #476cf0;
   --white-colour: #fff;
-  --light-colour: rgba(255, 255, 255, 0.6);
+  --light-colour: rgba(255, 255, 255, 0.534);
 
   --container-width-lg: 75%;
   --container-width-md: 86%;

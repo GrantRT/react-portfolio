@@ -10,9 +10,9 @@ const Home = () => {
     <>
       <header id="home">
         <div className="container header__container">
-          <h5>Hi, I'm</h5>
+          <h3>Hi, I'm</h3>
           <h1>Grant Tolhurst</h1>
-          <h5 className="light-colour">Fullstack Web Developer / Software Engineer</h5>
+          <h2 className="light-colour">Fullstack Web Developer / Software Engineer</h2>
           <img src={PHOTO} className="photo" alt="Grant Tolhurst" />
           <div className="home__contact">
             <a href="https://github.com/GrantRT" target="_blank">
