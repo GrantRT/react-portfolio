@@ -59,4 +59,7 @@
     grid-template-columns: 1fr;
     gap: 1rem;
   }
+  #work {
+    margin-bottom: 8rem;
+  }
 }
