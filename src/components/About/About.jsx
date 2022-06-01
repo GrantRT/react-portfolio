@@ -19,7 +19,7 @@ const About = () => {
             <article className="about__card">
               <RiCustomerServiceLine className="about__icon" />
               <h5>Customer Service</h5>
-              <small>15 years experience</small>
+              <small>14 years experience</small>
             </article>
             <article className="about__card">
               <FaGraduationCap className="about__icon" />
