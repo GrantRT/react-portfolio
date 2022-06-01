@@ -30,7 +30,7 @@ const Skills = () => {
             </article>
             <article className="skills__details">
               <SiJavascript className="skills__details-icon" />
-              <h4>JavaScipt</h4>
+              <h4>JavaScript</h4>
             </article>
             <article className="skills__details">
               <FaReact className="skills__details-icon" />
