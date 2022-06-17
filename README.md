@@ -7,6 +7,7 @@ A portfolio to showcase my work using React.
 ## Technology Used
 
 - React
+- Create React App
 - CSS
 - React-Icons
 
