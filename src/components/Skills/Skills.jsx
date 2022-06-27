@@ -48,7 +48,7 @@ const Skills = () => {
         </div>
 
         {/* Back-end */}
-        <div className="skills__frontend">
+        <div className="skills__backend">
           <h3>Back-end</h3>
           <div className="skills__content">
             <article className="skills__details">
@@ -66,6 +66,35 @@ const Skills = () => {
             <article className="skills__details">
               <GrMysql className="skills__details-icon" />
               <h4>MySQL</h4>
+            </article>
+          </div>
+        </div>
+        <div className="skills__technical">
+          <h3>Technical</h3>
+          <div className="skills__content">
+            <article className="skills__details">
+              <h4>Project Management</h4>
+            </article>
+            <article className="skills__details">
+              <h4>Recruitment</h4>
+            </article>
+            <article className="skills__details">
+              <h4>Training</h4>
+            </article>
+            <article className="skills__details">
+              <h4>Customer Service</h4>
+            </article>
+            <article className="skills__details">
+              <h4>Strategy</h4>
+            </article>
+            <article className="skills__details">
+              <h4>Leadership</h4>
+            </article>
+            <article className="skills__details">
+              <h4>Analytical Skills</h4>
+            </article>
+            <article className="skills__details">
+              <h4>Problem Solving</h4>
             </article>
           </div>
         </div>

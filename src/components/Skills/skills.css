@@ -1,7 +1,8 @@
 .skills__container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 2rem;
+  max-width: 40%;
 }
 
 .skills__container > div {
@@ -56,6 +57,7 @@
 @media screen and (max-width: 1024px) {
   .skills__container {
     grid-template-columns: 1fr;
+    max-width: 90%;
   }
 
   .skills__container > div {
