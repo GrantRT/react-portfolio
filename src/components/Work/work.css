@@ -42,6 +42,10 @@
   text-align: center;
 }
 
+.work__project p {
+  margin: 1.2rem 0 2rem;
+}
+
 .work__project-container {
   display: flex;
   gap: 1rem;
