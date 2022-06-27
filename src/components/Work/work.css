@@ -4,8 +4,9 @@
 
 .work__container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr;
   gap: 2.5rem;
+  margin-bottom: 10rem;
 }
 
 .work__project {
@@ -44,6 +45,7 @@
 
 .work__project p {
   margin: 1.2rem 0 2rem;
+  padding: 0.7rem;
 }
 
 .work__project-container {
@@ -55,7 +57,7 @@
 
 @media screen and (max-width: 1024px) {
   .work__container {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 1.2rem;
   }
 }
