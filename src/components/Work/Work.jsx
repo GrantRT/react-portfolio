@@ -67,7 +67,7 @@ const Work = () => {
                   Github
                 </a>
                 <a href={demo} className="btn btn-primary" target="_blank">
-                  Demo
+                  Deployed
                 </a>
               </div>
             </article>
