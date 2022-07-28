@@ -13,8 +13,8 @@ const projectsArr = [
     description:
       'A trip finder application fused together with a social network functionality. We have gamified the travel experience. Travel the world and earn unique badges. Our smart technology will learn your travel goals and display trips that you will love.',
     technologies: 'HTML, CSS , Javascript, NodeJS, Express, AWS S3 Bucket, Socket IO, Chakra UI, React, GraphQL, MongoDB Atlas, Mongoose.',
-    github: 'https://github.com/GrantRT/Macro-Meals',
-    demo: 'https://grantrt.github.io/Macro-Meals/',
+    github: 'https://github.com/GrantRT/travelly',
+    demo: 'https://gentle-lowlands-70428.herokuapp.com/',
   },
   {
     id: 2,
