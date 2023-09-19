@@ -9,7 +9,9 @@ import { FaBootstrap } from 'react-icons/fa';
 import { FaNodeJs } from 'react-icons/fa';
 import { SiMongodb } from 'react-icons/si';
 import { SiGraphql } from 'react-icons/si';
+import { SiTypescript } from 'react-icons/si';
 import { GrMysql } from 'react-icons/gr';
+import { FaAngular } from 'react-icons/fa';
 
 const Skills = () => {
   return (
@@ -35,6 +37,14 @@ const Skills = () => {
             <article className="skills__details">
               <FaReact className="skills__details-icon" />
               <h4>React</h4>
+            </article>
+            <article className="skills__details">
+              <SiTypescript className="skills__details-icon" />
+              <h4>TypeScript</h4>
+            </article>
+            <article className="skills__details">
+              <FaAngular className="skills__details-icon" />
+              <h4>Angular</h4>
             </article>
             <article className="skills__details">
               <SiTailwindcss className="skills__details-icon" />

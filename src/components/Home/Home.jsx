@@ -9,7 +9,7 @@ const Home = () => {
         <div className="container header__container">
           <h3>Hi, I'm</h3>
           <h1>Grant Tolhurst</h1>
-          <h2 className="light-colour">Fullstack Web Developer / Software Engineer</h2>
+          <h2 className="light-colour">Fullstack Software Developer</h2>
           <img src={PHOTO} className="photo" alt="Grant Tolhurst" />
         </div>
       </header>
