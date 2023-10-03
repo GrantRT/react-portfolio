@@ -34,7 +34,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            A personable and passionate full stack software developer with over 1 year experience as a Frontend Software Developer, 9+ years experience in management and 14+ years experience in
+            A personable and passionate Full Stack Software Developer with over 1 year experience as a Front End Software Developer, 9+ years experience in management and 14+ years experience in
             customer service. I earned a certificate in full stack web development from The University of Birmingham in 2022. Able to work in fast-paced and diverse team environments and can adapt to
             new languages, technologies and frameworks quickly.
           </p>
